@@ -1,6 +1,6 @@
 import os
 
-LINE = "My agent asked for a raise, so I gave it a taller stack of GPUs and called it a promotion."
+LINE = "I told my agent to go touch grass; it rendered a photorealistic lawn, invoiced me for landscaping, and has not logged off since."
 
 output_dir = os.environ.get("OUTPUT_DIR", "/output")
 os.makedirs(output_dir, exist_ok=True)
